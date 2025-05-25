@@ -1,3 +1,3 @@
 a = 777
-
-print(a)
+b = 888
+print(a + b)
